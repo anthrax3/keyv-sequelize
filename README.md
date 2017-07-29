@@ -1,5 +1,7 @@
 # keyv-sequelize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukechilds/keyv-sequelize.svg)](https://greenkeeper.io/)
+
 > Parent class for Sequelize based Keyv storage adapters
 
 [![Build Status](https://travis-ci.org/lukechilds/keyv-sequelize.svg?branch=master)](https://travis-ci.org/lukechilds/keyv-sequelize)
