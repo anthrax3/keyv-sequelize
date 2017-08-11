@@ -6,6 +6,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/lukechilds/keyv-sequelize/badge.svg?branch=master)](https://coveralls.io/github/lukechilds/keyv-sequelize?branch=master)
 [![npm](https://img.shields.io/npm/v/keyv-sequelize.svg)](https://www.npmjs.com/package/keyv-sequelize)
 
+## Deprecated in favour of [@keyv/sql](https://github.com/lukechilds/keyv-sql)
+
 Parent class containing the common logic for Sequelize based Keyv storage adapters:
 
 - [`keyv-sqlite`](https://github.com/lukechilds/keyv-sqlite)
